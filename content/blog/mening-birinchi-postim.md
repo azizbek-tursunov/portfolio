@@ -2,7 +2,7 @@
 title: "Bu mening birinchi postim hisoblanadi"
 dateString: Jan 2021 
 draft: false
-showToc: false
+showToc: true
 weight: 203
 --- 
 
@@ -13,3 +13,5 @@ Unda bugun men sizga buhaqida aytib beraman
 ### Bir kun
 
 U kuni men buni bilardim
+
+Ammo bu test
