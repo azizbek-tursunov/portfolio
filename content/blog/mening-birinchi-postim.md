@@ -1,6 +1,6 @@
 ---
 title: "Bu mening birinchi postim hisoblanadi"
-dateString: Jan 2021 
+dateString: Sep 2023 
 draft: false
 showToc: true
 weight: 203

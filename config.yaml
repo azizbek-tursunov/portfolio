@@ -21,10 +21,10 @@ menu:
       name: Search
       url: /search
       weight: 50
-    # - identifier: notes
-    #   name: Notes
-    #   url: https://notes.arkalim.org
-    #   weight: 70
+    - identifier: notes
+      name: Notes
+      url: https://notes.tursunov.me
+      weight: 70
 
 params:
   # theme
@@ -45,9 +45,11 @@ params:
     imageUrl: "home/me.jpg"
     imageWidth: 150
     imageHeight: 150
-    # buttons:
-    #   - name: Resume
-    #     url: ""
+    buttons:
+      - name: Read blog
+        url: "/blog"
+      - name: About me
+        url: "/about"
 
   # List View
   hideDescriptionInList: false
@@ -62,6 +64,8 @@ params:
       url: "https://www.linkedin.com/in/azizbektursunov"
     - name: "github"
       url: "https://github.com/azizbek-tursunov"
+    - name: "instagram"
+      url: "https://www.instagram.com/azizbektursunov.me/"
 
   # text search
   fuseOpts:
