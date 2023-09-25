@@ -27,6 +27,18 @@ Ammo bu test</description>
 Buyurtma berish, menyuni ko&amp;rsquo;rish va boshqa imkoniyatlari bor. Saytning admin paneli filamentphpda qilingan. Bu laravel uchun eng yaxshi bepul admin panel hisoblanadi. Buyurtmalar foydalanuvchi tomonidan yoki admin tomonidan saqlanishi mumkin. </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://tursunov.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tursunov.me/about/</guid>
+      <description>About me About Me
+Hello, I&amp;rsquo;m Azizbek Tursunov, a 21-year-old backend developer with a passion for crafting efficient and robust web applications. I specialize in PHP and Laravel, two technologies that have become the cornerstone of my career.
+My Journey
+My journey into the world of web development began at a young age at school when I discovered my fascination with making web sites using HTML. Over the years, I&amp;rsquo;ve honed my skills and developed a deep understanding of backend development, with a particular focus on PHP and Laravel.</description>
+    </item>
+    
     
   </channel>
 </rss>
