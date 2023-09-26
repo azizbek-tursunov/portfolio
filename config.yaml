@@ -46,10 +46,10 @@ params:
     imageWidth: 150
     imageHeight: 150
     buttons:
-      - name: Read blog
-        url: "/blog"
       - name: About me
         url: "/about"
+      - name: Resume
+        url: "https://docs.google.com/document/d/1QgVYYzNdTFxC1GOPXqLWtB1AuwiB8Xs-2I06mR6q9ko/edit?usp=sharing"
 
   # List View
   hideDescriptionInList: false
@@ -64,8 +64,8 @@ params:
       url: "https://www.linkedin.com/in/azizbektursunov"
     - name: "github"
       url: "https://github.com/azizbek-tursunov"
-    - name: "instagram"
-      url: "https://www.instagram.com/azizbektursunov.me/"
+    # - name: "instagram"
+    #   url: "https://www.instagram.com/azizbektursunov.me/"
 
   # text search
   fuseOpts:
