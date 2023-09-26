@@ -11,12 +11,8 @@
             "id": "5e443343a2d941b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/mening-birinchi-postim.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/mening-birinchi-postim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/mening-birinchi-postim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,8 +118,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c6fe0c2b6af00f5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
-                "file": "blog/mening-birinchi-postim.md"
+                "sortOrder": "frequency"
               }
             }
           }
