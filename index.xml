@@ -37,6 +37,15 @@ My Journey
 My journey into the world of web development began at a young age at school when I discovered my fascination with making web sites using HTML. Over the years, I&amp;rsquo;ve honed my skills and developed a deep understanding of backend development, with a particular focus on PHP and Laravel.</description>
     </item>
     
+    <item>
+      <title>My Post</title>
+      <link>https://tursunov.me/blog/my-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tursunov.me/blog/my-post/</guid>
+      <description>Bu test post</description>
+    </item>
+    
     
   </channel>
 </rss>
