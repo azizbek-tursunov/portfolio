@@ -1,4 +1,4 @@
-baseURL: "https://tursunov.me/"
+# baseURL: "https://tursunov.me/"
 languageCode: en-us
 title: Azizbek's Blog
 theme: PaperMod
@@ -27,6 +27,11 @@ menu:
       weight: 70
 
 params:
+  # SEO
+  Description: "I'm Azizbek Tursunov, a Software Engineer from Uzbekistan"
+  author: "Azizbek Tursunov"
+  keywords: [Software Engineer, portfolio, blog]
+  
   # theme
   showToc: true
   TocOpen: false
