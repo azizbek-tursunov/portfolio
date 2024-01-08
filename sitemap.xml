@@ -2,24 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tursunov.me/projects/restaurant-website/</loc>
+    <loc>/projects/restaurant-website/</loc>
   </url><url>
-    <loc>https://tursunov.me/projects/travel-agency/</loc>
+    <loc>/projects/travel-agency/</loc>
   </url><url>
-    <loc>https://tursunov.me/about/</loc>
+    <loc>/</loc>
+    <lastmod>2023-12-31T09:56:39+05:00</lastmod>
   </url><url>
-    <loc>https://tursunov.me/</loc>
+    <loc>/posts/my-post/</loc>
+    <lastmod>2023-12-31T09:56:39+05:00</lastmod>
   </url><url>
-    <loc>https://tursunov.me/blog/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2023-12-31T09:56:39+05:00</lastmod>
   </url><url>
-    <loc>https://tursunov.me/categories/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>https://tursunov.me/blog/my-post/</loc>
+    <loc>/posts/test/</loc>
   </url><url>
-    <loc>https://tursunov.me/projects/</loc>
+    <loc>/archives/</loc>
   </url><url>
-    <loc>https://tursunov.me/search/</loc>
+    <loc>/blog/</loc>
   </url><url>
-    <loc>https://tursunov.me/tags/</loc>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/blog/my-post/</loc>
+  </url><url>
+    <loc>/projects/</loc>
+  </url><url>
+    <loc>/search/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>

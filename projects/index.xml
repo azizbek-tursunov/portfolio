@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Azizbek&#39;s Blog</title>
-    <link>https://tursunov.me/projects/</link>
+    <link>/projects/</link>
     <description>Recent content in Projects on Azizbek&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://tursunov.me/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Restaurant  uchun vebsayt</title>
-      <link>https://tursunov.me/projects/restaurant-website/</link>
+      <link>/projects/restaurant-website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tursunov.me/projects/restaurant-website/</guid>
+      <guid>/projects/restaurant-website/</guid>
       <description>Resraurant uchun vebsayt Bu saytda restarant haqida ma&amp;rsquo;lumot olish mumkin.
 Buyurtma berish, menyuni ko&amp;rsquo;rish va boshqa imkoniyatlari bor. Saytning admin paneli filamentphpda qilingan. Bu laravel uchun eng yaxshi bepul admin panel hisoblanadi. Buyurtmalar foydalanuvchi tomonidan yoki admin tomonidan saqlanishi mumkin. </description>
     </item>
     
     <item>
       <title>Sayohat agentligi  uchun vebsayt</title>
-      <link>https://tursunov.me/projects/travel-agency/</link>
+      <link>/projects/travel-agency/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tursunov.me/projects/travel-agency/</guid>
+      <guid>/projects/travel-agency/</guid>
       <description>Sayohat agentligi uchun qulay dizaynga ega veb sahifa Kontentni uzluksiz boshqarish va ma&amp;rsquo;muriy vazifalarni bajarish uchun mustahkam boshqaruv paneli bilan jihozlangan sayyohlik agentligi uchun imkoniyatlarga boy va vizual jihatdan jozibali veb-sayt ishlab chiqilgan va ishlab chiqilgan. Ushbu loyiha sayohatchilar uchun foydalanuvchilarga qulay front-end va ma&amp;rsquo;murlar uchun turlar, bandlovlar va kontent yangilanishlarini boshqarish uchun keng qamrovli tizimni yaratishni o&amp;rsquo;z ichiga oldi. Veb sahifa 3 ta tilda qilingan.</description>
     </item>
     

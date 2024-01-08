@@ -2,35 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Azizbek&#39;s Blog</title>
-    <link>https://tursunov.me/</link>
+    <link>/</link>
     <description>Recent content on Azizbek&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://tursunov.me/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Dec 2023 09:56:39 +0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Restaurant  uchun vebsayt</title>
-      <link>https://tursunov.me/projects/restaurant-website/</link>
+      <link>/projects/restaurant-website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tursunov.me/projects/restaurant-website/</guid>
+      <guid>/projects/restaurant-website/</guid>
       <description>Resraurant uchun vebsayt Bu saytda restarant haqida ma&amp;rsquo;lumot olish mumkin.
 Buyurtma berish, menyuni ko&amp;rsquo;rish va boshqa imkoniyatlari bor. Saytning admin paneli filamentphpda qilingan. Bu laravel uchun eng yaxshi bepul admin panel hisoblanadi. Buyurtmalar foydalanuvchi tomonidan yoki admin tomonidan saqlanishi mumkin. </description>
     </item>
     
     <item>
       <title>Sayohat agentligi  uchun vebsayt</title>
-      <link>https://tursunov.me/projects/travel-agency/</link>
+      <link>/projects/travel-agency/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tursunov.me/projects/travel-agency/</guid>
+      <guid>/projects/travel-agency/</guid>
       <description>Sayohat agentligi uchun qulay dizaynga ega veb sahifa Kontentni uzluksiz boshqarish va ma&amp;rsquo;muriy vazifalarni bajarish uchun mustahkam boshqaruv paneli bilan jihozlangan sayyohlik agentligi uchun imkoniyatlarga boy va vizual jihatdan jozibali veb-sayt ishlab chiqilgan va ishlab chiqilgan. Ushbu loyiha sayohatchilar uchun foydalanuvchilarga qulay front-end va ma&amp;rsquo;murlar uchun turlar, bandlovlar va kontent yangilanishlarini boshqarish uchun keng qamrovli tizimni yaratishni o&amp;rsquo;z ichiga oldi. Veb sahifa 3 ta tilda qilingan.</description>
     </item>
     
     <item>
+      <title>My Post</title>
+      <link>/posts/my-post/</link>
+      <pubDate>Sun, 31 Dec 2023 09:56:39 +0500</pubDate>
+      
+      <guid>/posts/my-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>https://tursunov.me/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tursunov.me/about/</guid>
+      <guid>/about/</guid>
       <description>About me About Me
 Hello, I&amp;rsquo;m Azizbek Tursunov, a 21-year-old backend developer with a passion for crafting efficient and robust web applications. I specialize in PHP and Laravel, two technologies that have become the cornerstone of my career.
 My Journey
@@ -38,11 +48,21 @@ My journey into the world of web development began at a young age at school when
     </item>
     
     <item>
-      <title>My Post</title>
-      <link>https://tursunov.me/blog/my-post/</link>
+      <title></title>
+      <link>/posts/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tursunov.me/blog/my-post/</guid>
+      <guid>/posts/test/</guid>
+      <description></description>
+    </item>
+    
+    
+    <item>
+      <title>My Post</title>
+      <link>/blog/my-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/my-post/</guid>
       <description>Bu test post</description>
     </item>
     

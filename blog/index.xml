@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on Azizbek&#39;s Blog</title>
-    <link>https://tursunov.me/blog/</link>
+    <link>/blog/</link>
     <description>Recent content in Blogs on Azizbek&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://tursunov.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Post</title>
-      <link>https://tursunov.me/blog/my-post/</link>
+      <link>/blog/my-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tursunov.me/blog/my-post/</guid>
+      <guid>/blog/my-post/</guid>
       <description>Bu test post</description>
     </item>
     
